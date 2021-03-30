@@ -5,7 +5,7 @@ import Result from "./Result";
 
 const Linkage = () => {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div>
         <Route exact path="/">
           <CalculatorForm />
