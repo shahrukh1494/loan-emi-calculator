@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/loan-emi-calculator/static/css/main.4c189ed3.chunk.css",
+    "main.js": "/loan-emi-calculator/static/js/main.6f911c02.chunk.js",
+    "main.js.map": "/loan-emi-calculator/static/js/main.6f911c02.chunk.js.map",
+    "runtime-main.js": "/loan-emi-calculator/static/js/runtime-main.d79c5e78.js",
+    "runtime-main.js.map": "/loan-emi-calculator/static/js/runtime-main.d79c5e78.js.map",
+    "static/js/2.4ffe92b4.chunk.js": "/loan-emi-calculator/static/js/2.4ffe92b4.chunk.js",
+    "static/js/2.4ffe92b4.chunk.js.map": "/loan-emi-calculator/static/js/2.4ffe92b4.chunk.js.map",
+    "static/js/3.8488474a.chunk.js": "/loan-emi-calculator/static/js/3.8488474a.chunk.js",
+    "static/js/3.8488474a.chunk.js.map": "/loan-emi-calculator/static/js/3.8488474a.chunk.js.map",
+    "index.html": "/loan-emi-calculator/index.html",
+    "static/css/main.4c189ed3.chunk.css.map": "/loan-emi-calculator/static/css/main.4c189ed3.chunk.css.map",
+    "static/js/2.4ffe92b4.chunk.js.LICENSE.txt": "/loan-emi-calculator/static/js/2.4ffe92b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d79c5e78.js",
+    "static/js/2.4ffe92b4.chunk.js",
+    "static/css/main.4c189ed3.chunk.css",
+    "static/js/main.6f911c02.chunk.js"
+  ]
+}
